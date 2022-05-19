@@ -1,0 +1,4 @@
+#emacs and vim gitignore files
+*~
+*.swp
+*.swo
